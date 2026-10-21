@@ -5,9 +5,10 @@
 > 本库为公开版，仅包含适合公开的信息，不含联系方式、住址、证件、密钥或任何个人隐私。
 
 ## 目录
-- `profile/about.md`：基本情况
-- `profile/work.md`：工作领域与在研课题
-- `profile/skills-interests.md`：技能与兴趣
+- `profile/about.md`：基本情况（含英文名、领英、求职意向）
+- `profile/work.md`：工作经历、工作领域与在研课题
+- `profile/education.md`：教育经历（含硕士课题）
+- `profile/skills-interests.md`：专业技能与兴趣
 - `profile/ai-usage-preferences.md`：与 AI 协作的偏好
 - `llms.txt`：供大模型快速读取的索引
 - `index.html`：公开网页 https://profile.benzhang.ccwu.cc

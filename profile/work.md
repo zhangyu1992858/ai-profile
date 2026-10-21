@@ -1,7 +1,11 @@
+# 工作经历
+1. 北京中兴物业管理有限公司（国网中兴）· 安全质量管理部 · 项目管理｜2019.07–至今｜北京
+2. 北京电力医院 · 毕业生工程师（Graduate Engineer）｜2018.07–2019.07｜北京
+3. Australia Education Management Group (AEMG) · 学术技能课程讲师｜2017.11–2018.01｜山东威海
+4. Haoyuan Control Engineering · 实习工程师（Vocation Student Engineer）｜2013.10–2014.01｜济南
+
 # 工作领域
-- 客服管理
-- 安全生产
-- 应急管理
+- 客服管理、安全生产、应急管理
 - 物业能源管理与绿色低碳运行
 
 # 在研与写作方向
