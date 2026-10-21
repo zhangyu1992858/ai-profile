@@ -1,0 +1,11 @@
+# 张玉川 · AI 个人档案（公开版）
+> 硕士研究生、中级工程师，就职于北京中兴物业管理有限公司（国网中兴下属），从事客服管理、安全生产、应急管理、物业能源管理与绿色低碳运行。
+
+## 档案
+- [基本情况](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/about.md)
+- [工作领域](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/work.md)
+- [技能与兴趣](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/skills-interests.md)
+- [AI 协作偏好](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/ai-usage-preferences.md)
+
+## 偏好摘要
+中文；简洁；先结论后步骤；正式公文风格写作；不编造。
