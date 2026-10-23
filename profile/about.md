@@ -1,18 +1,18 @@
 # 基本情况
 - 姓名：张玉川（英文名 Ben Zhang）
 - 领英：https://www.linkedin.com/in/yuchuanzhang21
-- 地区：Beijing, China（现职单位所在地）
-- 学历：硕士研究生（University of Tasmania，Master of Engineering Science，电力工程）
+- 地区：北京（现职单位所在地）
+- 学历：硕士研究生（塔斯马尼亚大学工程科学硕士，电力工程）
 - 职称：工业工程工程师（中级），2020-12-31 取得
 - 单位：北京中兴物业管理有限公司（国网中兴下属）· 生产技术处
 - 岗位：客服管理（六级职员），2024-06 起
-- 求职状态：Open to work（求职意向：济南，现场/混合办公）
+- 求职状态：正在求职（意向城市：济南，现场或混合办公）
 
 ## 社交媒体 / 内容账号
-- LinkedIn：https://www.linkedin.com/in/yuchuanzhang21
-- 抖音（Douyin）作品入口：https://v.douyin.com/d5jOm4gqsWM/（在抖音 App 内打开可查看更多作品）
+- 领英：https://www.linkedin.com/in/yuchuanzhang21
+- 抖音作品入口：https://v.douyin.com/d5jOm4gqsWM/（在抖音客户端内打开可查看更多作品）
 - B站 / 哔哩哔哩 · 小川懂生活：https://b23.tv/6DdjSRe
 - YouTube · @ben_zhang：https://youtube.com/@ben_zhang
 
-## About
-Industrial engineer at Beijing Zhongxing Property Management (State Grid Zhongxing). Customer service management, safety production, emergency management, property energy and green low-carbon operations. Industrial Engineering Engineer (intermediate) since 2020. Skilled in Python/VBA, data-driven energy management, safety standardization, and QC methods. Master of Engineering Science (Electrical Power Engineering), University of Tasmania. Open to opportunities in Jinan (on-site or hybrid). Content: Douyin, Bilibili「小川懂生活」, YouTube @ben_zhang.
+## 简介
+就职于北京中兴物业管理有限公司（国网中兴下属），从事客服管理、安全生产、应急管理，以及物业能源与绿色低碳运行。2020 年取得工业工程工程师（中级）。熟悉 Python / VBA、数据驱动的能源管理、安全生产标准化与 QC 方法。塔斯马尼亚大学工程科学硕士（电力工程）。正在求职，意向城市为济南，可接受现场或混合办公。内容账号：抖音、哔哩哔哩「小川懂生活」、YouTube @ben_zhang。

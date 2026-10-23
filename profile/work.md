@@ -10,7 +10,7 @@
 
 ## 早期经历
 7. Australia Education Management Group (AEMG) · 学术技能课程讲师｜2017.11–2018.01｜山东威海
-8. Haoyuan Control Engineering · 实习工程师（Vocation Student Engineer）｜2013.10–2014.01｜济南
+8. Haoyuan Control Engineering · 实习工程师（在校实习）｜2013.10–2014.01｜济南
 
 # 工作领域
 - 客服管理、安全生产标准化、应急管理
