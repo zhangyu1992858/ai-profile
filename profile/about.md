@@ -13,6 +13,7 @@
 - LinkedIn：https://www.linkedin.com/in/yuchuanzhang21
 - 抖音（Douyin）作品入口：https://v.douyin.com/d5jOm4gqsWM/（在抖音 App 内打开可查看更多作品）
 - B站 / 哔哩哔哩 · 小川懂生活：https://b23.tv/6DdjSRe
+- YouTube · @ben_zhang：https://youtube.com/@ben_zhang
 
 ## About
-Industrial engineer at Beijing Zhongxing Property Management (State Grid Zhongxing). Customer service management, safety production, emergency management, property energy and green low-carbon operations. Industrial Engineering Engineer (intermediate) since 2020; preparing senior-title application in industrial safety and environment. Skilled in Python/VBA, data-driven energy management, safety standardization, and QC methods. Master of Engineering Science (Electrical Power Engineering), University of Tasmania. Open to opportunities in Jinan (on-site or hybrid). Content: Douyin travel/life videos; Bilibili space「小川懂生活」.
+Industrial engineer at Beijing Zhongxing Property Management (State Grid Zhongxing). Customer service management, safety production, emergency management, property energy and green low-carbon operations. Industrial Engineering Engineer (intermediate) since 2020; preparing senior-title application in industrial safety and environment. Skilled in Python/VBA, data-driven energy management, safety standardization, and QC methods. Master of Engineering Science (Electrical Power Engineering), University of Tasmania. Open to opportunities in Jinan (on-site or hybrid). Content: Douyin, Bilibili「小川懂生活」, YouTube @ben_zhang.

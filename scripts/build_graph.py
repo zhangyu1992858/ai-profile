@@ -31,6 +31,7 @@ ROOT_BLURB = (
     "LinkedIn: https://www.linkedin.com/in/yuchuanzhang21\n"
     "抖音（Douyin）: https://v.douyin.com/d5jOm4gqsWM/\n"
     "B站 · 小川懂生活: https://b23.tv/6DdjSRe\n"
+    "YouTube · @ben_zhang: https://youtube.com/@ben_zhang\n"
 )
 
 

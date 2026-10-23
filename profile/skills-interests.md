@@ -10,4 +10,4 @@
 # 兴趣
 - AI 智能体协作：Grok Bot、Hermes、WorkBuddy 等多智能体工具的搭建与使用
 - Creo 钣金建模
-- 抖音旅行内容创作（[Douyin 作品入口](https://v.douyin.com/d5jOm4gqsWM/)）、B站「[小川懂生活](https://b23.tv/6DdjSRe)」
+- 抖音 / B站 / YouTube 生活向内容（[Douyin](https://v.douyin.com/d5jOm4gqsWM/) · [小川懂生活](https://b23.tv/6DdjSRe) · [@ben_zhang](https://youtube.com/@ben_zhang)）
