@@ -21,18 +21,31 @@ FILES = [
     ("llms.txt", LLMS),
 ]
 
-OPEN_TO_WORK = "Open to work（求职意向：济南，现场/混合办公）"
+OPEN_TO_WORK = "正在求职（意向城市：济南，现场或混合办公）"
 ROOT_BLURB = (
     "# 张玉川（Ben Zhang）· AI 个人档案（公开版）\n"
-    "> 硕士研究生（University of Tasmania，电力工程）、工业工程工程师（中级），"
+    "> 硕士研究生（塔斯马尼亚大学，电力工程）、工业工程工程师（中级），"
     "就职于北京中兴物业管理有限公司生产技术处（国网中兴下属），岗位客服管理（六级职员）；"
     "从事客服管理、安全生产标准化、应急管理、物业能源管理与绿色低碳运行。\n\n"
     f"{OPEN_TO_WORK}\n"
-    "LinkedIn: https://www.linkedin.com/in/yuchuanzhang21\n"
-    "抖音（Douyin）: https://v.douyin.com/d5jOm4gqsWM/\n"
-    "B站 · 小川懂生活: https://b23.tv/6DdjSRe\n"
-    "YouTube · @ben_zhang: https://youtube.com/@ben_zhang\n"
+    "领英：https://www.linkedin.com/in/yuchuanzhang21\n"
+    "抖音：https://v.douyin.com/d5jOm4gqsWM/\n"
+    "哔哩哔哩 · 小川懂生活：https://b23.tv/6DdjSRe\n"
+    "YouTube · @ben_zhang：https://youtube.com/@ben_zhang\n"
 )
+
+# Display names only. Node ids stay as source filenames so links keep their shape.
+LABELS = {
+    "about.md": "基本情况",
+    "work.md": "工作经历",
+    "education.md": "教育经历",
+    "skills-interests.md": "技能与兴趣",
+    "awards.md": "获奖与荣誉",
+    "patents.md": "专利",
+    "publications.md": "论文与出版",
+    "ai-usage-preferences.md": "AI 协作偏好",
+    "llms.txt": "档案索引",
+}
 
 
 def child_name(line: str) -> str:
@@ -79,7 +92,13 @@ def build_graph():
     for file_id, path in FILES:
         text = path.read_text(encoding="utf-8")
         nodes.append(
-            {"id": file_id, "name": file_id, "group": 1, "val": 7, "text": text}
+            {
+                "id": file_id,
+                "name": LABELS.get(file_id, file_id),
+                "group": 1,
+                "val": 7,
+                "text": text,
+            }
         )
         links.append({"source": "root", "target": file_id})
         for ch in extract_children(text, file_id):

@@ -1,8 +1,8 @@
 # 张玉川（Ben Zhang）· AI 个人档案（公开版）
-> 硕士研究生（University of Tasmania，电力工程）、工业工程工程师（中级，2020-12 取得），就职于北京中兴物业管理有限公司生产技术处（国网中兴下属），岗位客服管理（六级职员）；从事客服管理、安全生产标准化、应急管理、物业能源管理与绿色低碳运行。
+> 硕士研究生（塔斯马尼亚大学，电力工程）、工业工程工程师（中级，2020-12 取得），就职于北京中兴物业管理有限公司生产技术处（国网中兴下属），岗位客服管理（六级职员）；从事客服管理、安全生产标准化、应急管理、物业能源管理与绿色低碳运行。
 
-Open to work（求职意向：济南，现场/混合办公）
-LinkedIn: https://www.linkedin.com/in/yuchuanzhang21
+正在求职（意向城市：济南，现场或混合办公）
+领英：https://www.linkedin.com/in/yuchuanzhang21
 
 ## 档案（网站二级页面 — 详情以此为准）
 - [基本情况](https://profile.benzhang.ccwu.cc/about)（含社交媒体 / 内容账号）
@@ -16,7 +16,7 @@ LinkedIn: https://www.linkedin.com/in/yuchuanzhang21
 - [知识图谱](https://profile.benzhang.ccwu.cc/graph)
 - [首页](https://profile.benzhang.ccwu.cc/)（概览与索引，不重复全文）
 
-Markdown 源文件在 GitHub `profile/` 目录；网站页面为同名 `*.html`（路径无扩展名，与 `/graph` 相同约定）。
+Markdown 源文件位于 GitHub 仓库的 `profile/` 目录；网站页面对应同名 `*.html`（访问路径不含扩展名，约定与 `/graph` 相同）。
 
 ## 要点（摘要）
 - 现职：生产技术处 · 客服管理（六级职员），北京中兴物业管理有限公司（国网中兴）
