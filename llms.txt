@@ -9,15 +9,19 @@ LinkedIn: https://www.linkedin.com/in/yuchuanzhang21
 - B站 / 哔哩哔哩 · 小川懂生活：https://b23.tv/6DdjSRe
 - YouTube · @ben_zhang：https://youtube.com/@ben_zhang
 
-## 档案
-- [基本情况](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/about.md)
-- [工作经历](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/work.md)
-- [教育经历](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/education.md)
-- [技能与兴趣](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/skills-interests.md)
-- [获奖与荣誉](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/awards.md)
-- [专利](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/patents.md)
-- [论文与出版](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/publications.md)
-- [AI 协作偏好](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/ai-usage-preferences.md)
+## 档案（网站二级页面）
+- [基本情况](https://profile.benzhang.ccwu.cc/about)
+- [工作经历](https://profile.benzhang.ccwu.cc/work)
+- [教育经历](https://profile.benzhang.ccwu.cc/education)
+- [技能与兴趣](https://profile.benzhang.ccwu.cc/skills-interests)
+- [获奖与荣誉](https://profile.benzhang.ccwu.cc/awards)
+- [专利](https://profile.benzhang.ccwu.cc/patents)
+- [论文与出版](https://profile.benzhang.ccwu.cc/publications)
+- [AI 协作偏好](https://profile.benzhang.ccwu.cc/ai-usage-preferences)
+- [知识图谱](https://profile.benzhang.ccwu.cc/graph)
+- [首页](https://profile.benzhang.ccwu.cc/)
+
+Markdown 源文件仍在 GitHub `profile/` 目录；网站页面为同名 `*.html`（路径无扩展名，与 `/graph` 相同约定）。
 
 ## 工作经历（摘要）
 - 2024.11–至今 北京中兴物业管理有限公司 生产技术处 客服管理（五级职员）

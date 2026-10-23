@@ -5,18 +5,20 @@
 > 本库为公开版，仅包含适合公开的信息，不含联系方式、住址、证件、密钥或任何个人隐私。
 
 ## 目录
-- `profile/about.md`：基本情况（含英文名、领英、求职意向）
-- `profile/work.md`：工作经历、工作领域与在研课题
-- `profile/education.md`：教育经历（含硕士课题）
-- `profile/skills-interests.md`：专业技能与兴趣
-- `profile/awards.md`：获奖与荣誉（公开）
-- `profile/patents.md`：专利（公开号）
-- `profile/publications.md`：论文、出版与技术文件（公开）
-- `profile/ai-usage-preferences.md`：与 AI 协作的偏好
+- `profile/*.md`：各章节 Markdown 源文件（编辑后运行下方脚本生成网站页面）
+- `about.html` … `ai-usage-preferences.html`：与 `profile/` 对应的公开二级页面（站点路径如 `/awards`，与 `/graph` 相同的无扩展名约定）
+- `profile-page.css`：二级页面共用样式
+- `scripts/build_profile_pages.py`：从 `profile/*.md` 生成根目录 `*.html`
 - `scripts/build_graph.py`：从 `profile/` 与 `llms.txt` 重新生成 `graph.html` 图谱数据
-- `llms.txt`：供大模型快速读取的索引
+- `llms.txt`：供大模型快速读取的索引（含二级页面 URL）
 - `graph.html`：3D 知识图谱 https://profile.benzhang.ccwu.cc/graph
 - `index.html`：公开网页 https://profile.benzhang.ccwu.cc
+
+## 维护
+```bash
+python3 scripts/build_profile_pages.py
+python3 scripts/build_graph.py
+```
 
 ## AI 怎么用
 1. 先读 `llms.txt`，再按需读 `profile/` 下各文件。
