@@ -29,6 +29,8 @@ ROOT_BLURB = (
     "从事客服管理、安全生产标准化、应急管理、物业能源管理与绿色低碳运行。\n\n"
     f"{OPEN_TO_WORK}\n"
     "LinkedIn: https://www.linkedin.com/in/yuchuanzhang21\n"
+    "抖音（Douyin）: https://v.douyin.com/d5jOm4gqsWM/\n"
+    "B站 · 小川懂生活: https://b23.tv/6DdjSRe\n"
 )
 
 

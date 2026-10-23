@@ -9,5 +9,10 @@
 - 岗位：客服管理（五级职员），2024-06 起
 - 求职状态：Open to work（求职意向：济南，现场/混合办公）
 
+## 社交媒体 / 内容账号
+- LinkedIn：https://www.linkedin.com/in/yuchuanzhang21
+- 抖音（Douyin）作品入口：https://v.douyin.com/d5jOm4gqsWM/（在抖音 App 内打开可查看更多作品）
+- B站 / 哔哩哔哩 · 小川懂生活：https://b23.tv/6DdjSRe
+
 ## About
-Industrial engineer at Beijing Zhongxing Property Management (State Grid Zhongxing). Customer service management, safety production, emergency management, property energy and green low-carbon operations. Industrial Engineering Engineer (intermediate) since 2020; preparing senior-title application in industrial safety and environment. Skilled in Python/VBA, data-driven energy management, safety standardization, and QC methods. Master of Engineering Science (Electrical Power Engineering), University of Tasmania. Open to opportunities in Jinan (on-site or hybrid).
+Industrial engineer at Beijing Zhongxing Property Management (State Grid Zhongxing). Customer service management, safety production, emergency management, property energy and green low-carbon operations. Industrial Engineering Engineer (intermediate) since 2020; preparing senior-title application in industrial safety and environment. Skilled in Python/VBA, data-driven energy management, safety standardization, and QC methods. Master of Engineering Science (Electrical Power Engineering), University of Tasmania. Open to opportunities in Jinan (on-site or hybrid). Content: Douyin travel/life videos; Bilibili space「小川懂生活」.
