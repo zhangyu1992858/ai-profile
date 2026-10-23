@@ -25,7 +25,7 @@ OPEN_TO_WORK = "Open to work（求职意向：济南，现场/混合办公）"
 ROOT_BLURB = (
     "# 张玉川（Ben Zhang）· AI 个人档案（公开版）\n"
     "> 硕士研究生（University of Tasmania，电力工程）、工业工程工程师（中级），"
-    "就职于北京中兴物业管理有限公司生产技术处（国网中兴下属），"
+    "就职于北京中兴物业管理有限公司生产技术处（国网中兴下属），岗位客服管理（六级职员）；"
     "从事客服管理、安全生产标准化、应急管理、物业能源管理与绿色低碳运行。\n\n"
     f"{OPEN_TO_WORK}\n"
     "LinkedIn: https://www.linkedin.com/in/yuchuanzhang21\n"
