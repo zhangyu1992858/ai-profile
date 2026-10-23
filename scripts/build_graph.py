@@ -88,12 +88,27 @@ def build_graph():
     return {"nodes": nodes, "links": links}
 
 
+def validate_payload(payload: str, data: dict) -> None:
+    """Ensure JSON is valid and multiline strings stay escaped (not literal newlines)."""
+    if "\n" in payload or "\r" in payload:
+        raise SystemExit("graph payload must be a single-line JSON literal")
+    parsed = json.loads(payload)
+    if parsed != data:
+        raise SystemExit("graph payload round-trip mismatch")
+    if any("\n" in (n.get("text") or "") for n in data["nodes"]):
+        assert "\\n" in payload, "multiline node text must use JSON \\n escapes"
+    if len(data["nodes"]) < 20:
+        raise SystemExit(f"expected dozens of graph nodes, got {len(data['nodes'])}")
+
+
 def patch_graph_html(data: dict) -> None:
     html = GRAPH_HTML.read_text(encoding="utf-8")
     payload = json.dumps(data, ensure_ascii=False, separators=(",", ": "))
+    validate_payload(payload, data)
+    replacement = f"const D={payload};\nconst C="
     new_html, n = re.subn(
-        r"const D=.*?;",
-        f"const D={payload};",
+        r"const D=.*?;\nconst C=",
+        lambda _m: replacement,
         html,
         count=1,
         flags=re.DOTALL,

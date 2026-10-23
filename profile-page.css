@@ -1,0 +1,23 @@
+:root{--c:#1f4e79;--bg:#f5f7fa}
+*{box-sizing:border-box}
+body{margin:0;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:#222;line-height:1.7}
+header{background:linear-gradient(135deg,#1f4e79,#2e7d6b);color:#fff;padding:40px 20px 48px;text-align:center}
+header h1{margin:0;font-size:1.6em;font-weight:600}
+header p{margin:.4em 0 0;opacity:.9;font-size:.95em}
+.back{display:inline-block;margin-top:12px;padding:6px 16px;border:1px solid #fff;border-radius:20px;color:#fff;text-decoration:none;font-size:.9em}
+.back:hover{background:rgba(255,255,255,.12)}
+main{max-width:860px;margin:-24px auto 40px;padding:0 16px}
+.card{background:#fff;border-radius:12px;padding:24px 28px;box-shadow:0 2px 10px rgba(0,0,0,.06)}
+.card h1{margin:0 0 1em;color:var(--c);font-size:1.5em}
+.card h2{margin:1.6em 0 .6em;color:var(--c);font-size:1.15em}
+.card h2:first-child{margin-top:0}
+.card h3{margin:1.2em 0 .5em;color:#333;font-size:1.05em}
+.card p{margin:.6em 0}
+.card ul,.card ol{padding-left:1.3em;margin:.5em 0}
+.card li{margin:.35em 0}
+.card table{width:100%;border-collapse:collapse;margin:1em 0;font-size:.92em}
+.card th,.card td{border:1px solid #dde3ea;padding:8px 10px;text-align:left;vertical-align:top}
+.card th{background:#eef3f8;color:var(--c);font-weight:600}
+.card tr:nth-child(even) td{background:#fafbfc}
+.card a{color:var(--c)}
+footer{text-align:center;color:#888;font-size:.9em;padding:20px}
