@@ -1,7 +1,7 @@
 # 张玉川（Ben Zhang）· AI 个人档案（公开版）
-> 硕士研究生（University of Tasmania，电力工程）、中级工程师，就职于北京中兴物业管理有限公司（国网中兴下属），从事客服管理、安全生产、应急管理、物业能源管理与绿色低碳运行。
+> 硕士研究生（University of Tasmania，电力工程）、工业工程工程师（中级，2020-12 取得），就职于北京中兴物业管理有限公司生产技术处（国网中兴下属），从事客服管理、安全生产标准化、应急管理、物业能源管理与绿色低碳运行；申报工业工程高级工程师（副高级）。
 
-Open to work（求职意向：北京、济南，现场/混合办公）
+Open to work（求职意向：济南，现场/混合办公）
 LinkedIn: https://www.linkedin.com/in/yuchuanzhang21
 
 ## 档案
@@ -9,21 +9,28 @@ LinkedIn: https://www.linkedin.com/in/yuchuanzhang21
 - [工作经历](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/work.md)
 - [教育经历](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/education.md)
 - [技能与兴趣](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/skills-interests.md)
+- [获奖与荣誉](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/awards.md)
+- [专利](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/patents.md)
+- [论文与出版](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/publications.md)
 - [AI 协作偏好](https://github.com/zhangyu1992858/ai-profile/blob/main/profile/ai-usage-preferences.md)
 
-## 工作经历
-- 2019.07–至今 北京中兴物业管理有限公司（国网中兴）安全质量管理部 项目管理，北京
-- 2018.07–2019.07 北京电力医院 毕业生工程师，北京
-- 2017.11–2018.01 Australia Education Management Group (AEMG) 学术技能课程讲师，山东威海
+## 工作经历（摘要）
+- 2024.11–至今 北京中兴物业管理有限公司 生产技术处 客服管理（五级职员）
+- 2024.06–2024.11 安全质量处 工程管理
+- 2023.08–2024.06 安全监督处 安全管理
+- 2022.03–2023.08 安全质量处 技术及安全管理
+- 2019.06–2022.03 安全质量处 工程管理
+- 2018.07–2019.06 电力医院物业管理中心 实习
+- 2017.11–2018.01 AEMG 学术技能课程讲师，威海
 - 2013.10–2014.01 Haoyuan Control Engineering 实习工程师，济南
 
 ## 教育经历
-- University of Tasmania，Master of Engineering Science（电力工程），2015–2018；课题：Control and Power Management of Photovoltaic Systems with Plug-in Hybrid Electric Vehicles as Energy Storage
-- University of Tasmania，BE(Hons)（电力工程），2012–2014
-- 山东科技大学，工学学士（电气工程及其自动化），2010–2012
+- University of Tasmania，Master of Engineering Science（电力工程），2015–2018（2018-03 毕业）；课题：Control and Power Management of Photovoltaic Systems with Plug-in Hybrid Electric Vehicles as Energy Storage
+- 山东科技大学，工学学士（电气工程及其自动化），2010–2015（2015-06 毕业）
+- University of Tasmania，BE(Hons)（电力工程），2012–2014（2014-12 毕业）
 
-## 技能
-Matlab/SimPowerSystems、电力系统、可再生能源、电气工程、Microsoft Office
+## 技能（摘要）
+Python/VBA、LSTM 能耗预测、安全生产标准化、应急管理、ISO 50001 能源管理、绿电与碳核查、QEHS 体系、QC 方法、电力系统与可再生能源、Matlab、Microsoft Office
 
 ## 公开展示平台
 - 应急管理展示平台 / 物业服务地图：https://bjzxwyglyxgs.ccwu.cc（北京中兴物业管理有限公司）
