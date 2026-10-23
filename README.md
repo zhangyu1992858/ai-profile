@@ -9,7 +9,11 @@
 - `profile/work.md`：工作经历、工作领域与在研课题
 - `profile/education.md`：教育经历（含硕士课题）
 - `profile/skills-interests.md`：专业技能与兴趣
+- `profile/awards.md`：获奖与荣誉（公开）
+- `profile/patents.md`：专利（公开号）
+- `profile/publications.md`：论文、出版与技术文件（公开）
 - `profile/ai-usage-preferences.md`：与 AI 协作的偏好
+- `scripts/build_graph.py`：从 `profile/` 与 `llms.txt` 重新生成 `graph.html` 图谱数据
 - `llms.txt`：供大模型快速读取的索引
 - `graph.html`：3D 知识图谱 https://profile.benzhang.ccwu.cc/graph
 - `index.html`：公开网页 https://profile.benzhang.ccwu.cc
