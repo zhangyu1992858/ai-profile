@@ -8,6 +8,7 @@
 - [基本情况](https://profile.benzhang.ccwu.cc/about)（含社交账号与个人域名）
 - [工作经历](https://profile.benzhang.ccwu.cc/work)
 - [教育经历](https://profile.benzhang.ccwu.cc/education)
+- [职称材料](https://profile.benzhang.ccwu.cc/credentials)
 - [技能与兴趣](https://profile.benzhang.ccwu.cc/skills-interests)
 - [获奖与荣誉](https://profile.benzhang.ccwu.cc/awards)
 - [专利](https://profile.benzhang.ccwu.cc/patents)
@@ -20,7 +21,8 @@ Markdown 源文件位于 GitHub 仓库的 `profile/` 目录；网站页面对应
 
 ## 要点（摘要）
 - 现职：生产技术处 · 客服管理（六级职员），北京中兴物业管理有限公司（国网中兴）
-- 教育：塔斯马尼亚大学电力工程硕士；山东科技大学学士
+- 教育：塔斯马尼亚大学电力工程硕士；山东科技大学学士（2011–2015）
+- 职称材料：2025 年度申报材料（材料目录、职称公示表、所在单位评价意见）；现职称仍为工业工程工程师（中级）
 - 领域：客服管理、安标与应急、能源与绿电、QEHS、Python/VBA 与数据驱动运维
 
 ## 公开展示平台
