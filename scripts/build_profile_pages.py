@@ -12,6 +12,7 @@ PAGES = [
     ("about", "基本情况", "about.md"),
     ("work", "工作经历", "work.md"),
     ("education", "教育经历", "education.md"),
+    ("credentials", "职称材料", "credentials.md"),
     ("skills-interests", "技能与兴趣", "skills-interests.md"),
     ("awards", "获奖与荣誉", "awards.md"),
     ("patents", "专利", "patents.md"),
@@ -23,7 +24,7 @@ PAGES = [
 def inline_md(text: str) -> str:
     text = html.escape(text)
     text = re.sub(
-        r"\[([^\]]+)\]\((https?://[^)]+)\)",
+        r"\[([^\]]+)\]\((https?://[^)\s]+|/[^)\s]+)\)",
         r'<a href="\2" target="_blank" rel="noopener">\1</a>',
         text,
     )
@@ -105,13 +106,20 @@ def md_to_html(md: str, skip_leading_h1: bool = False) -> str:
             parts.append("<ol>")
             while i < len(lines) and re.match(r"^\d+\.\s+", lines[i].strip()):
                 item = re.sub(r"^\d+\.\s+", "", lines[i].strip())
-                parts.append(f"<li>{inline_md(item)}</li>")
                 i += 1
-                while i < len(lines) and lines[i].startswith("   "):
+                subs: list[str] = []
+                while i < len(lines) and (lines[i].startswith("   ") or lines[i].startswith("\t")):
                     sub = lines[i].strip()
-                    if sub.startswith("- "):
-                        parts.append(f"<li>{inline_md(sub[2:])}</li>")
+                    if sub.startswith("- ") or sub.startswith("* "):
+                        subs.append(sub[2:])
+                    elif sub:
+                        subs.append(sub)
                     i += 1
+                if subs:
+                    inner = "".join(f"<li>{inline_md(s)}</li>" for s in subs)
+                    parts.append(f"<li>{inline_md(item)}<ul>{inner}</ul></li>")
+                else:
+                    parts.append(f"<li>{inline_md(item)}</li>")
             parts.append("</ol>")
             continue
         if stripped.startswith("> "):
