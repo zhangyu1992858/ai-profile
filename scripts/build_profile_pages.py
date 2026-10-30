@@ -7,6 +7,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PROFILE = ROOT / "profile"
 SITE = "https://profile.benzhang.ccwu.cc"
+ICP_LINK = (
+    '<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener">'
+    "京ICP备2026073136号-1</a>"
+)
 
 PAGES = [
     ("about", "基本情况", "about.md"),
@@ -143,7 +147,7 @@ def render_page(slug: str, nav_title: str, md: str) -> str:
 </head><body>
 <header><h1>{html.escape(title)}</h1><p>张玉川 · Ben Zhang · 公开档案</p><a class="back" href="/">← 返回首页</a></header>
 <main><article class="card">{body}</article></main>
-<footer>公开版 · <a href="{SITE}/llms.txt">llms.txt</a> · <a href="{SITE}/graph">知识图谱</a></footer>
+<footer>公开版 · <a href="{SITE}/llms.txt">llms.txt</a> · <a href="{SITE}/graph">知识图谱</a> · {ICP_LINK}</footer>
 </body></html>
 """
 
