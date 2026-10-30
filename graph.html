@@ -6,6 +6,8 @@ html,body{margin:0;height:100%;background:#000;overflow:hidden;font-family:"JetB
 .hud{position:fixed;z-index:5;font-size:12px;letter-spacing:.08em;text-shadow:0 0 6px #ff6a00;pointer-events:none}
 .tl{top:14px;left:16px}.tr{top:14px;right:16px;text-align:right}.bl{bottom:14px;left:16px;opacity:.7}.br{bottom:14px;right:16px;text-align:right;pointer-events:auto}
 .hud b{color:#ffd700}.br a{color:#ffb347}
+footer.site{position:fixed;bottom:0;left:0;right:0;z-index:6;text-align:center;font-size:11px;color:#666;padding:6px 12px 10px;background:linear-gradient(transparent,rgba(0,0,0,.75));pointer-events:auto}
+footer.site a{color:#ffb347}
 #panel{position:fixed;top:0;right:0;width:min(380px,92vw);height:100%;box-sizing:border-box;padding:56px 20px 20px;background:rgba(10,4,0,.86);border-left:1px solid #ff6a0088;box-shadow:-8px 0 30px #ff450033;transform:translateX(105%);transition:.35s;z-index:10;overflow:auto;backdrop-filter:blur(4px)}
 #panel.on{transform:none}#panel h3{color:#ffd700;margin:0 0 12px;font-size:15px;border-bottom:1px dashed #ff6a0066;padding-bottom:8px}
 #panel pre{white-space:pre-wrap;word-break:break-word;color:#ffcf99;font:13px/1.7 inherit;margin:0}#panel a{color:#ffd700}
@@ -17,6 +19,7 @@ html,body{margin:0;height:100%;background:#000;overflow:hidden;font-family:"JetB
 <div class="hud tr">节点 <b id="nc">0</b><br>连线 <b id="lc">0</b><br>交叉 <b id="cc">0</b></div>
 <div class="hud bl">[ 拖拽旋转 · 滚轮缩放 · 点击节点查看 ]</div>
 <div class="hud br"><a href="/">← 返回档案</a> · <a href="/llms.txt">llms.txt</a></div>
+<footer class="site">公开版 · 学历证书与已公开的职称材料见对应页面；不含联系电话、住址、身份证号或密钥 · <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener">京ICP备2026073136号-1</a></footer>
 <div id="panel"><span id="x">✕</span><h3 id="pt"></h3><pre id="pb"></pre></div>
 <script src="https://unpkg.com/three@0.160.0/build/three.min.js"></script>
 <script src="https://unpkg.com/three-spritetext@1.8.2/dist/three-spritetext.min.js"></script>
