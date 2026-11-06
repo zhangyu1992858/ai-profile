@@ -30,4 +30,4 @@ python3 scripts/build_graph.py
 - 应急管理展示平台 / 物业服务地图：https://bjzxwyglyxgs.ccwu.cc（北京中兴物业管理有限公司）
 
 ## 个人域名
-- 国内域名：https://fyalt.cn
+- 国内域名：https://www.fyalt.cn
